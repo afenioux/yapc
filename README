@@ -1,0 +1,26 @@
+Hello, thank you to check out this projet,
+I hope you will enjoy it, this is was my first try in php,
+I wrote it severals years ago, but
+I m always seeking for reviews and advises!
+
+The "bad" thing is, the admin interface is in French!
+
+you can test it with user foo pass bar (http://yapc/admin)
+
+Yapc is as simple CMS written in php,
+
+features are :
+*write new articles
+*create categories to sort your articles
+*edit/delete categories/articles
+*upload photos
+*add/remove users able to post articles
+
+some screenshots in the screenshots folder.
+
+Install notes :
+*use create_database.sql to create the mysql tables
+*set you mysql host/login/pass in inc/db_fns.php (line 4!)
+*copy paste into you web directory and you are done!
+
+Arnaud

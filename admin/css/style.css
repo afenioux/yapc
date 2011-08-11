@@ -1,0 +1,167 @@
+html {
+ border: 0;
+ margin: 0;
+ padding: 0;
+}
+
+body {
+ font-family: Arial, Verdana, Helvetica, Trebuchet MS, sans-serif;
+ font-size: 10pt;
+ color: black;
+ background-color: white;
+ border: 0;
+ margin: 0;
+ padding: 0;
+}
+
+img {
+  border: 0;
+}
+
+.titlearea {
+ margin: 0px auto 0px auto;
+ text-align: center;
+}
+
+.completer {
+ margin: 10px auto 0px auto;
+}
+
+.infoarea {
+ float: right;
+ text-align: right;
+ border: 1px solid #ddd;
+ color: black;
+ background-color: white;
+ padding: 0;
+ margin: 2px 5px 2px 2px;
+}
+
+.infoarea div.hdr {
+ text-align: left;
+ color: black;
+ background-color: #ddd;
+ font-weight: bold;
+ padding: 3px;
+}
+
+.infoarea div a {
+ background-color: white;
+ color: #ba0;
+ font-weight: bold;
+}
+
+
+.infoarea div {
+ padding: 3px;
+}
+
+.infoarea div span.ok {
+ color: green;
+ background-color: white;
+}
+
+.infoarea div span.warn {
+ color: red;
+ background-color: white;
+}
+
+.pagearea {
+ width: 800px;
+ margin: 20px auto 20px auto;
+}
+
+.buttonarea a {
+ color: black;
+ text-decoration: none;
+ border: 3px solid #eee;
+ background-color: white;
+ display: block;
+ width: 450px;
+ padding: 3px 5px;
+ margin: 5px auto;
+}
+
+.buttonarea a:hover {
+ background-color: white;
+ border: 3px solid #aaa;
+ color: black;
+}
+
+.buttonarea a img {
+ border-width: 0px;
+ padding: 0px 5px;
+ float: left;
+}
+
+.buttonarea a span {
+ font-size: 12pt;
+ font-weight: bold;
+}
+
+.backarea a {
+ color: black;
+ text-decoration: none;
+ border: 3px solid #eee;
+ background-color: white;
+ display: block;
+ width: 785px;
+ padding: 3px 5px;
+ margin: 5px auto;
+}
+
+.backarea a:hover {
+ background-color: white;
+ border: 3px solid #aaa;
+ color: black;
+}
+
+.backarea a img {
+ border-width: 0px;
+ padding: 0px 5px;
+ vertical-align: middle;
+}
+
+.formarea {
+ color: black;
+ text-decoration: none;
+ border: 3px solid #eee;
+ background-color: white;
+ display: block;
+ padding: 3px 5px;
+ margin: 5px auto;
+}
+
+
+.formarea span {
+ font-size: 12pt;
+ font-weight: bold;
+}
+
+.formarea table {
+  /*border-width:1px;
+  border-style:solid; 
+  border-color:black;*/
+  border-collapse:collapse;
+}
+
+#edit td { 
+  border-width:1px;
+  border-style:solid; 
+  width: 100%;  
+}
+
+.formarea table.advanced {
+ vertical-align: top;
+ border-collapse: collapse;
+ width: 100%;
+}
+
+.explain-step
+{
+        background-color:	#eee;
+        padding:      		1px;
+        padding-left:      	10px;
+        margin-top:      	2px;
+        margin-bottom:		3px;
+}

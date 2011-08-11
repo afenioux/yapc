@@ -1,0 +1,184 @@
+body
+{
+	margin: 20px 0 ;
+	padding: 0 ;
+	text-align: center ;
+	font: 0.8em "Trebuchet MS", helvetica, sans-serif ;
+	background: #dea ;
+}
+
+img
+{
+	border: none;
+}
+
+#back {
+	/*width: 366px;*/
+	position: absolute;
+	top: 0;
+	/*left: 18px;*/
+	padding: 15px 0 0 880px;
+	color: #fff;
+	text-align: center;
+}
+#back a:link, #back a:visited {
+		font-weight: bold;
+		color: #fff;
+		text-decoration: none;
+}
+#back a:hover { text-decoration: underline; }
+
+
+.floatleft
+{
+   float: left;
+   margin-right: 15px;
+   margin-top: 5px;
+}
+
+.clear
+{
+   clear: both;
+}
+
+.spaceright
+{
+	margin-right: 10px;
+	margin-top: 5px;
+}
+
+
+div#conteneur
+{
+	width: 994px ;
+	margin: 0 auto ;
+	text-align: left ;
+	border: 2px solid #ab4 ;
+	background: #fff ;
+}
+
+h1#header
+{
+	height: 532px ;
+	background: url(../img/header.jpg) no-repeat left top ;
+	margin: 0 ;
+	text-align: center ;
+	font-size: 3em ;
+	font-weight: bold ;
+}
+
+h1#header a
+{
+	width: 994px ;
+	/*height+padding = h1#header.height*/
+	height: 62px ;
+	padding: 470px 0 0 0 ;
+	display: block ;
+	position: relative ;
+	color: #fff; 
+	text-decoration: none;
+}
+
+ul#menu
+{
+	height: 25px ;
+	margin: 0 ;
+	padding: 0 ;
+	background: url(../img/bg_menu.gif) repeat-x 0 -25px ;
+	list-style-type: none ;
+}
+
+ul#menu li
+{
+	float: left ;
+	text-align: center ;
+}
+
+ul#menu li a
+{
+	width: 122px ;
+	line-height: 25px ;
+	font-size: 1.1em ;
+	font-weight: bold ;
+	/*letter-spacing: 1px ;*/
+	color: #444 ;
+	display: block ;
+	text-decoration: none ;
+	border-right: 2px solid #dea ;
+}
+
+ul#menu li a:hover
+{
+	background: url(../img/bg_menu.gif) repeat-x 0 0 ;
+}
+
+div.contenu
+{
+	margin: 50px;
+	padding: 0 25px 0 100px ;
+	/*border: 1px solid black;*/
+}
+
+div.contenu h2
+{
+	line-height: 25px ;
+	font-size: 1.4em ;
+	color: #9b2 ;
+	border-bottom: 1px solid #9b2 ;
+}
+
+div.contenu h3
+{
+	margin-left: 15px ;
+	padding-left: 5px ;
+	border-bottom: 1px solid #9b2 ;
+	border-left: 3px solid #9b2 ;
+	color: #9b2 ;
+}
+
+div.contenu p
+{
+	text-align: justify ;
+	/*text-indent: 2em ;*/
+	line-height: 1.7em ;
+}
+
+div.contenu a
+{
+	color: #8a0 ;
+}
+
+div.contenu a:hover
+{
+	color: #9b2 ;
+}
+
+p#footer
+{
+	margin: 0 ;
+	margin-top: 80px ;
+	padding-right: 10px ;
+	line-height: 30px ;
+	text-align: right ;
+	color: #8a0 ;
+}
+
+pre
+{
+	overflow: auto ;
+	background: #dea ;
+	border: 2px solid #9b2 ;
+	padding: 5px 0 0 5px ;
+	font-size: 1.2em ;
+}
+
+
+pre span
+{
+	color: #560 ;
+}
+
+pre span.comment
+{
+	color: #b30000 ;
+}
