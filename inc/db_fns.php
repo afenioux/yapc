@@ -5,7 +5,7 @@ function db_connect() {
    //$result = @mysql_pconnect('localhost', 'user', 'pass');
    if (!$result)
       return false;
-   if (!@mysql_select_db('brassmar'))
+   if (!@mysql_select_db('your.databasename'))
       return false;
 
    return $result;

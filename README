@@ -20,7 +20,8 @@ some screenshots in the screenshots folder.
 
 Install notes :
 *use create_database.sql to create the mysql tables
-*set you mysql host/login/pass in inc/db_fns.php (line 4!)
+*set you mysql host/login/pass in inc/db_fns.php (line 4+)
+*edit the admin/inc/header_new_article.php admin/inc/header.php inc/header.php
 *copy paste into you web directory and you are done!
 
 Arnaud

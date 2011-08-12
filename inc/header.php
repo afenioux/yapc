@@ -5,14 +5,14 @@ include('inc/include_fns.php');
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
 	<head>
-		<title>Quintette de cuivres et percussions BRASS MARITIME</title>
+		<title>My website</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta http-equiv="Content-Style-Type" content="text/css" />
 		<meta http-equiv="Content-Language" content="fr" />
 		
-		<meta name="Description" content="Site officiel du quintette de cuivres BRASS MARITIME" />
-		<meta name="keywords" content="musique, Meschers, 17132, Royan, charente-maritime, charente maritime, pays royannais, instrument, trompette, percussion, concert" />
-		<meta name="Indentifier-URL" content="http://www.brass-maritime.fr" />
+		<meta name="Description" content="" />
+		<meta name="keywords" content="" />
+		<meta name="Indentifier-URL" content="http://www.yourwebsite.tld" />
 		
 		<link media="screen" href="css/style.css" type="text/css" rel="stylesheet" />
 	        <!--[if IE]>
@@ -29,9 +29,9 @@ include('inc/include_fns.php');
 	
 	<body onload="setupZoom()">
 	<div id="conteneur">		
-		<h1 id="header"><a href="index.php" title="Quintette de cuivres et percussions BRASS MARITIME - Accueil"><span>Quintette de cuivres et percussions BRASS MARITIME</span></a></h1>
+		<h1 id="header"><a href="index.php" title="Homepage"><span>My website</span></a></h1>
 
-		<p id="back"><a href="index.php">Retour a l'accueil</a></p>
+		<p id="back"><a href="index.php">Home</a></p>
 
 
 		<ul id="menu">

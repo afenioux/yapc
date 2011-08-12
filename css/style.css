@@ -17,7 +17,7 @@ img
 	position: absolute;
 	top: 0;
 	/*left: 18px;*/
-	padding: 15px 0 0 880px;
+	padding: 15px 0 0 950px;
 	color: #fff;
 	text-align: center;
 }
@@ -59,7 +59,7 @@ div#conteneur
 
 h1#header
 {
-	height: 532px ;
+	height: 230px ;
 	background: url(../img/header.jpg) no-repeat left top ;
 	margin: 0 ;
 	text-align: center ;
@@ -72,7 +72,7 @@ h1#header a
 	width: 994px ;
 	/*height+padding = h1#header.height*/
 	height: 62px ;
-	padding: 470px 0 0 0 ;
+	padding: 100px 0 0 0 ;
 	display: block ;
 	position: relative ;
 	color: #fff; 
