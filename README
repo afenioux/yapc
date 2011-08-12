@@ -5,7 +5,7 @@ I m always seeking for reviews and advises!
 
 The "bad" thing is, the admin interface is in French!
 
-you can test it with user foo pass bar (http://yapc/admin)
+the default user is foo/bar in the /admin page
 
 Yapc is as simple CMS written in php,
 
@@ -15,6 +15,7 @@ features are :
 *edit/delete categories/articles
 *upload photos
 *add/remove users able to post articles
+*click on photo to zoom it
 
 some screenshots in the screenshots folder.
 
